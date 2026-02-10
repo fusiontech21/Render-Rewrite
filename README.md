@@ -21,3 +21,9 @@ No profit is being made from this project.
 - **Improved module performance**
 - **Open source**
 - **Free to use**
+
+## LICENSE
+**This project uses a custom License. For more details view LICENSE.md** 
+
+
+Copyright (c) 2026 [Ressurected2001]
